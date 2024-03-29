@@ -1,12 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7900ac&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7900ac&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+de+França+Vieira;I'm+18+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6ccef&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+de+França+Vieira;I'm+18+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeFVieira&show_icons=true&count_private=true&hide_border=true&title_color=7900ac&icon_color=7900ac&text_color=7900ac&bg_color=7900ac" alt="Felipe França github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVieira&layout=compact&hide_border=true&title_color=7900ac&text_color=7900ac&bg_color=7900ac" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeFVieira&show_icons=true&count_private=true&hide_border=true&title_color=e6ccef&icon_color=e6ccef&text_color=e6ccef&bg_color=9032bb" alt="Felipe França github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVieira&layout=compact&hide_border=true&title_color=e6ccef&text_color=e6ccef&bg_color=9032bb" />
+  
+  <br/>
+  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeFVieira&&theme=tokyonight" alt="FelipeFVieira" />
 </div>
+
+
 
 [![Felipe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeFVieira&bg_color=0d1117&color=ffffff&line=058082&point=a2ecfb&area=true&hide_border=true)](https://github.com/FelipeFVieira/github-readme-activity-graph)
 
