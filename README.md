@@ -1,10 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7900ac&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003abb&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6ccef&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+de+França+Vieira;I'm+18+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003abb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Felipe+de+França+Vieira;I'm+18+years+old;I´m+from+Brasil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeFVieira&show_icons=true&count_private=true&hide_border=true&title_color=e6ccef&icon_color=e6ccef&text_color=e6ccef&bg_color=9032bb" alt="Felipe França github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVieira&layout=compact&hide_border=true&title_color=e6ccef&text_color=e6ccef&bg_color=9032bb" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FelipeFVieira&show_icons=true&count_private=true&hide_border=true&title_color=e6ccef&icon_color=e6ccef&text_color=e6ccef&bg_color=003abb" alt="Felipe França github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFVieira&layout=compact&hide_border=true&title_color=e6ccef&text_color=e6ccef&bg_color=003abb" />
   
   <br/>
   
@@ -31,4 +32,4 @@
 <h3 align="left">I'm learning</h3>
 <p align="left"></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7900ac&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003abb&height=120&section=footer"/>
