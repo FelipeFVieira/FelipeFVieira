@@ -9,7 +9,7 @@
   
   <br/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeFVieira&&theme=tokyonight" alt="FelipeFVieira" />
+  
 </div>
 
 
