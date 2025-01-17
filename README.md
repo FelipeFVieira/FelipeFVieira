@@ -60,5 +60,5 @@ Aqui você pode conferir alguns dos projetos nos quais estou trabalhando ou que 
 
 Sinta-se à vontade para entrar em contato!
 
----
+--- 
 
